@@ -1,0 +1,11 @@
+Model Information:
+* title:	Robin
+* source:	https://sketchfab.com/3d-models/robin-6c97bae2d28041fcaa81098877436157
+* author:	serg10rincon (https://sketchfab.com/serg10rincon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Robin" (https://sketchfab.com/3d-models/robin-6c97bae2d28041fcaa81098877436157) by serg10rincon (https://sketchfab.com/serg10rincon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
